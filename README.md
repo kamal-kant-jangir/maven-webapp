@@ -5,7 +5,7 @@ maven-webapp application
 
 # Java webapp build
 
-git clone https://github.com/zielotechgroup/maven-webapp.git
+git clone https://github.com/kamal-kant-jangir/maven-webapp.git
 
 cd maven-webapp
 
